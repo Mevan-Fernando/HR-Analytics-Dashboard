@@ -48,4 +48,4 @@ the company do about it?
 ---
 
 ## Data Source
-IBM HR Analytics Employee Attrition dataset — 1,470 employees, 35 columns   update this with my fiel names
+IBM HR Analytics Employee Attrition dataset — 1,470 employees, 35 columns   update this with my file names
